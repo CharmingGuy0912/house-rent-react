@@ -28,33 +28,6 @@ please copy this project and share with friends :)
 |-- src #react src frontend `shitcode`
 ```
 
-## Installation
-
-  1.
-
-    $ git clone git@github.com:rwieruch/minimal-react-webpack-babel-setup.git
-
-  2.
-
-    $ cd minimal-react-webpack-babel-setup
-
-  3.
-
-    $ npm install
-
-    $ npm start
-
-    OR
-
-    $ docker-compose up
-
-  4. visit `http://localhost:4100/`
-
-
--------------------
-
-
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
